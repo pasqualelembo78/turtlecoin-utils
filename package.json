@@ -1,5 +1,5 @@
 {
-  "name": "wrkzcoin-utils",
+  "name": "turtlecoin-utils",
   "version": "2.0.0",
   "description": "A Node.js collection of utilities useful for TurtleCoin developers",
   "main": "dist/index.js",
